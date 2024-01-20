@@ -1,4 +1,10 @@
 # Adversarial Regularizer Project in Autoencoders
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+)
+
+<img width="363" alt="Screenshot 2024-01-20 at 17 24 23" src="https://github.com/naayem/ACAI-Enhanced-3D-Pose-Representation/assets/14961905/dc723b0c-2881-46fe-abc7-152716c19bef">
+
 
 ## Project Overview
 This project explores the use of Adversarial Constrained Autoencoder Interpolation (ACAI) in enhancing the quality of latent space for 3D human poses representation. Using the h36m dataset for 3D human poses, we experiment with different autoencoder architectures to assess the impact of ACAI on latent space structuring, smoothness of interpolation, and dataset coverage.
@@ -48,6 +54,12 @@ This study provides insights into the effects of ACAI on autoencoder-based laten
 ## Acknowledgements
 Special thanks to all who contributed to the research, especially for the support and guidance provided by Dr. Andrey Davydov and Professor Pascal Fua.
 
+## Gallery
+
+<img width="563" alt="Screenshot 2024-01-20 at 17 24 11" src="https://github.com/naayem/ACAI-Enhanced-3D-Pose-Representation/assets/14961905/6d6fd679-190a-4886-a1cf-ad3914ff83cd">
+
+<img width="563" alt="Screenshot 2024-01-20 at 17 24 23" src="https://github.com/naayem/ACAI-Enhanced-3D-Pose-Representation/assets/14961905/5d464697-4e14-41dd-bbae-92b476e767df">
+<img width="292" alt="Screenshot 2024-01-20 at 17 24 37" src="https://github.com/naayem/ACAI-Enhanced-3D-Pose-Representation/assets/14961905/ed2d8cf1-1ab1-4f37-a08a-f0d7fa9c6641">
 
 
 # neural-network-trainer
