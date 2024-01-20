@@ -1,4 +1,4 @@
-# Readme for Adversarial Regularizer Project in Autoencoders
+# Adversarial Regularizer Project in Autoencoders
 
 ## Project Overview
 This project explores the use of Adversarial Constrained Autoencoder Interpolation (ACAI) in enhancing the quality of latent space for 3D human poses representation. Using the h36m dataset for 3D human poses, we experiment with different autoencoder architectures to assess the impact of ACAI on latent space structuring, smoothness of interpolation, and dataset coverage.
