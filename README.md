@@ -3,11 +3,12 @@
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 )
 
-<img width="363" alt="Screenshot 2024-01-20 at 17 24 23" src="https://github.com/naayem/ACAI-Enhanced-3D-Pose-Representation/assets/14961905/dc723b0c-2881-46fe-abc7-152716c19bef">
-
-
 ## Project Overview
 This project explores the use of Adversarial Constrained Autoencoder Interpolation (ACAI) in enhancing the quality of latent space for 3D human poses representation. Using the h36m dataset for 3D human poses, we experiment with different autoencoder architectures to assess the impact of ACAI on latent space structuring, smoothness of interpolation, and dataset coverage.
+
+<div align=center>
+  <img width="363" alt="Screenshot 2024-01-20 at 17 24 23" src="https://github.com/naayem/ACAI-Enhanced-3D-Pose-Representation/assets/14961905/dc723b0c-2881-46fe-abc7-152716c19bef">
+</div>
 
 ## Dataset and Autoencoders
 The h36m dataset, consisting of 3D poses represented as 17x3 tensors, is used. Augmentations such as rotation and horizontal flip are applied. Autoencoders with symmetrical bottleneck fully connected layers are employed, with varying latent-space sizes.
